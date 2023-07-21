@@ -28,7 +28,7 @@ jobs:
     - name: Build the site
       run: |
         cd sunsetseasalt
-        pelican content -s publishconf.py
+        pelican ./content -s publishconf.py
 
     - name: Deploy 🚀
       uses: peaceiris/actions-gh-pages@v3
