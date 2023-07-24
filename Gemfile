@@ -34,6 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # If you have any themes, put them here!
 gem "jekyll-remote-theme"
-gem "jekyll-include-cache", group: :jekyll_plugins
-
 gem 'minimal-mistakes-jekyll'
