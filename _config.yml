@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'sunsetseasalt-com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://sunsetseasalt.us21.list-manage.com/subscribe/post?u=33dcc8c5e5fb9434aa46b981c&amp;id=08292c9179&amp;f_id=00415de1f0'
 include: ["_pages"]
 permalink: /:title/
 email: sunsetseasalt@gmail.com
