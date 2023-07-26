@@ -14,7 +14,9 @@ The first dive brought us to Tokong Timur. The dive was so nice. Today's weather
 
 Our second dive took us to Sawadee Wreck. This dive mind-blowingly surpassed my expectations. 
 
-> The descent, a journey 31 meters deep into the ocean, was so magical and captivating. The vast, the emptiness of the blue of the ocean was hypnotic and mesmerizing beyond words. It was peaceful and quiet.
+The descent, a journey 31 meters deep into the ocean, was so magical and captivating. The vast, the emptiness of the blue of the ocean was hypnotic and mesmerizing beyond words.
+
+> It was peaceful and quiet.
 
 The wreck was larger than I'd anticipated, and the chill at the ocean's bottom only added to the thrill. I loved every moment of this dive. A site I definitely I want to visit again.
 
