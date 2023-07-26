@@ -5,6 +5,7 @@ author: azizul
 categories: [ Lifestyle, Travel ]
 tags: [ Indonesia ]
 image: assets/images/eat-pray-love.JPG
+rating: 4
 ---
 
 Eating, a little bit of praying, and a whole lot of loving. That sums up my Bali trip.
