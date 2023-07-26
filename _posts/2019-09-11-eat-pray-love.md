@@ -16,7 +16,7 @@ The island is brimming with diversity. You can drive (or hop on a motorbike like
 
 During my solo trip, I explored all the well-known spots: Canggu, Ubud, Seminyak, and Kuta, navigating my way around on a motorbike. I found my heartstrings tugged by Canggu and Ubud. Canggu exudes a chilled out vibe, it's a tad more relaxed and cultured than Seminyak, ***and somehow, it just felt like my kind of place.***
 
-Ubud, in contrast, is a lush oasis of greenery where yoga and meditation are the order of the day, and finding oneself is on everyone's agenda. Like many others, I couldn't help but embrace the life Bali advertises, so I too channeled my inner Yogi and tried to me more **"present in the moment"**.
+Ubud, in contrast, is a lush oasis of greenery where yoga and meditation are the order of the day, and finding oneself is on everyone's agenda. Like many others, I couldn't help but embrace the life Bali advertises, so I too channeled my inner Yogi and tried to be more **"present in the moment"**.
 
 As for the food, I'll be honest, I didn't indulge much in local cuisine. I frequented overpriced Western eateries for a taste of the familiar. Because when it comes to dining, it's all about the ambiance. Picture this: dining beside a sprawling paddy field, mountains fading in the distance, or eating by the water, accompanied by the rhythmic song of the waves and the gentle warmth of the setting sun. Sharing drinks with strangers, exchanging stories, making memories. It was all rather magical.
 
