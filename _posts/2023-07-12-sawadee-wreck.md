@@ -5,7 +5,6 @@ author: azizul
 categories: [ Travel ]
 tags: [ Diving ]
 image: assets/images/tenggol-lighthouse.jpg
-rating: 4.5
 ---
 
 Waking up surprisingly well-rested – perhaps I was so exhausted from the day before. Around 8, we made our way to the jetty, preparing our gears, and shortly after, we were off.
