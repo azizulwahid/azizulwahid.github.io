@@ -5,7 +5,7 @@ description: "The journeys taken, the stories shared, and the memories etched in
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-MB3CS4FP58'
 disqus: 'sunsetseasalt-com'
 mailchimp-list: 'https://sunsetseasalt.us21.list-manage.com/subscribe/post?u=33dcc8c5e5fb9434aa46b981c&amp;id=08292c9179&amp;f_id=00415de1f0'
 include: ["_pages"]
