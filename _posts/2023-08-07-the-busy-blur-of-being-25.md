@@ -3,7 +3,7 @@ layout: post
 title:  "The Busy Blur of Being 25"
 author: azizul
 categories: [ Lifestyle ]
-assets/images/the-busy-blur-of-being-25-img-1.jpg
+image: assets/images/the-busy-blur-of-being-25-img-1.jpg
 ---
 Five months out from 26, and here I am, unravelling the tapestry of my 25th year. 25 is an odd age, no doubt. While some friends are reciting vows, others are dancing under neon lights, travelling foreign countries, or embracing the joys of parenthood.
 
