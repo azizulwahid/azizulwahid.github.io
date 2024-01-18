@@ -3,6 +3,7 @@ layout: post
 title:  "This Song, In Rome"
 author: azizul
 categories: [ Lifestyle ]
+image: assets/images/this-song-in-rome.jpg
 ---
 
 Nights found me at a quiet hill overlooking my town, where I'd play songs loud enough to drown out my thoughts and let my heart feel everything. The daily grind had worn me down, leaving me yearning for "all the lives I had not lived." In a burst of courage, I broke free from the routine. With a heart full of dreams and a suitcase in hand, I left for Rome, a city that always seemed like a distant fairy tale.
